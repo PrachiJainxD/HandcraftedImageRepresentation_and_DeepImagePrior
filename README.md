@@ -1,1 +1,9 @@
-COMPSCI 670 Computer Vision Mini Project: Handcrafted Image Representations and Image Denoising with a Deep Image Prior
+1. Handcrafted Image Representations
+   - Implemented three different image representations for MNIST dataset:
+     1. Raw Pixels
+     2. Histogram of Gradients
+     3. Local Binary Patterns
+   
+3. Image Denoising with a Deep Image Prior
+   - Denoising images with AutoEncoder with Batch Normalization and Bilinear Upsampling
+   - Deeper Architectures, those with Skip Connections, as well as Averaging the Results across iterations.
